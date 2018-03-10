@@ -1,0 +1,19 @@
+{
+  "name": "byefinder",
+  "version": "1.0.0",
+  "description": " Close finder of macos with the ByeFinder app. ",
+  "main": "main.scpt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vutondesign/ByeFinder.git"
+  },
+  "author": "ktrvs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vutondesign/ByeFinder/issues"
+  },
+  "homepage": "https://github.com/vutondesign/ByeFinder#readme"
+}
